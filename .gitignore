@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+kraise_system
+*.kev
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+/tmp/
+logs/
